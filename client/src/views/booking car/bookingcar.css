@@ -1,0 +1,107 @@
+
+.carinfo{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 70px;
+}
+
+.bookingcarimg{
+    height: 380px;
+    width:500px;
+    border-radius: 15px;
+}
+.BTdiv{
+    display: flex;
+    /* height: 380px;
+    width: 500px; */
+   
+}
+.BTdiv h6{
+    list-style-type: none;
+    padding: 20px;
+    background-color:#eaebf1;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.filterbutton{
+    border: none;
+    background-color: #FFD700; 
+    /* Gold border */
+    color: #000000; /* Gold text */
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    
+}
+
+.bookingdiv{
+    padding: 20px;
+    display: flex;
+}
+
+.Bd1{
+    width: 50%;
+}
+.Bd2{
+    width: 50%;
+}
+.DBbutton{
+    font-weight: 500;
+    border-radius: 5px;
+    border: none;
+    padding:10px;
+    margin:10px 20px;
+    outline: none;
+    background-color: #365ad8;
+    color: rgb(255, 255, 255)
+    ;
+}
+.DBbutton:active{
+    background-color:lightgray}
+
+.bookingdate{
+    margin:10px 20px  ;
+   background-color: #ffffff;
+   padding: 10px;
+   font-family: "Roboto Mono",monospace;
+   color: #000000;
+   font-size: 18px;
+   border: none;
+   outline: none;
+   border-radius: 5px;
+   box-shadow: 0px 2px 10.9px hsl(0deg 0% 0% / 0.33);
+}
+::-webkit-calendar-picker-indicator{
+   background-color: #ffffff;
+   padding: 5px;
+   cursor: pointer;
+   border-radius: 3px;
+}
+
+
+/* ---------- */
+.bookingbutton{
+    border: none;
+    background-color: #FFD700;
+    color: #000000;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.bookingbutton:active{
+    background-color: rgb(43, 195, 43);
+}
+
+.Dcheck{
+    height: 20px;
+    width: 20px;
+    margin:10px 10px;
+    background-color: #333;
+
+}

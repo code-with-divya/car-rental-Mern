@@ -1,0 +1,79 @@
+.carimg{
+    height: 100px;
+    width: 100px;
+}
+.searchdiv{
+    padding: 0 30px;
+    background: #eaebf1;
+    display: flex;
+    justify-content: space-between;
+}
+
+.CFbutton{
+padding: 10px 15px ;
+    border: none;
+    background-color: #FFD700; 
+    color: #000000; /* Gold text */
+   
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.details{
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border:1px solid black;
+    color: #ffffff !important;
+}
+.details:hover{
+    background-color: #ffffff ; 
+    color: rgb(0, 0, 0) !important;
+    border: none;
+    padding: 10px 20px;
+    border: 1px solid lightgray;
+
+}
+
+.inputdate{
+     margin:10px 20px  ;
+    background-color: #ffffff;
+    padding: 10px;
+    color: #000000;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10.9px hsl(0deg 0% 0% / 0.33);
+}
+::-webkit-calendar-picker-indicator{
+    background-color: #ffffff;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.inputsearch{
+    width: 350px;
+    margin:10px 20px  ;
+    background-color: #ffffff;
+    padding: 10px;
+ 
+    color: #000000;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10.9px hsl(0deg 0% 0% / 0.33);
+}
+
+.Vtype{
+  text-align: center;
+    color:#000000;
+    font-weight: 700;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}

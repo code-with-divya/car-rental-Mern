@@ -1,0 +1,5 @@
+client/.gitignore
+
+
+Server/node_modules/
+Server/.env
