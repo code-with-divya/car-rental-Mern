@@ -55,9 +55,9 @@ const Register = () => {
                             
                             <div className='sign-box'>
                             <button type="submit" class="carpagebutton">Sign In</button>
-                            <GoogleOAuthProvider clientId='858023577595-41h64iuj938rvdo00bo6rnub5gk0ai54.apps.googleusercontent.com'>
+                            {/* <GoogleOAuthProvider clientId={process.env.REACT_APP_GOOGLE_CLIENT_ID}>
                                 <Loginwithgoogle />
-                            </GoogleOAuthProvider>
+                            </GoogleOAuthProvider> */}
                         </div>
                     
                             <a className='signinlink' href="/login">I Already have account</a>

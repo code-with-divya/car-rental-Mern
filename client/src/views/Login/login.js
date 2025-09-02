@@ -12,6 +12,8 @@ const Login = () => {
     const [password, setPassword] = useState('');
     const navigate = useNavigate();
 
+    console.log("id",process.env.REACT_APP_GOOGLE_CLIENT_ID)
+
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
@@ -51,9 +53,9 @@ const Login = () => {
 
                         <div className='sign-box'>
                             <button type="submit" class="carpagebutton">Sign In</button>
-                            <GoogleOAuthProvider clientId={process.env.GOOGLE_CLIENT_ID}>
+                            {/* <GoogleOAuthProvider clientId={process.env.REACT_APP_GOOGLE_CLIENT_ID}>
                                 <Loginwithgoogle />
-                            </GoogleOAuthProvider>
+                            </GoogleOAuthProvider> */}
                         </div>
                         <a className='signinlink' href="/">I don't have account</a>
 
