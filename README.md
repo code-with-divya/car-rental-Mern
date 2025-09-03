@@ -8,20 +8,6 @@ Users can view available cars, book rentals, and manage reservations, while admi
 <img width="1365" height="766" alt="login" src="https://github.com/user-attachments/assets/2f64bba3-05f2-4051-8c19-e13e1487b36c" />
 
 
-### 🚘 Car Listing Page  
-<img width="1365" height="767" alt="car" src="https://github.com/user-attachments/assets/8ca7f015-7cab-4bfa-8821-e51ba808fe66" />
-
-### 🏍️ Bike/Scooter Listing Pag
-<img width="1362" height="767" alt="twowhelers" src="https://github.com/user-attachments/assets/13d7373a-83af-4253-932c-ab72cafc4d97" />
-
-### 🏍️ Booking Car,Bike/Scooter Listing Page  
-<img width="1364" height="766" alt="booking" src="https://github.com/user-attachments/assets/1723f5bc-3b52-4ee4-be56-406002a07e24" />
-
-
-
-
-
-
 It eliminates manual processes and brings automation to car rental businesses.
 
 ## 🚀 Features
@@ -31,6 +17,17 @@ It eliminates manual processes and brings automation to car rental businesses.
 - 💳 **Payment Integration (Future)** – Online payment support
 - 📊 **Admin Dashboard** – Manage cars, users, and bookings
 - 🔎 **Search & Filter** – Find cars by type, brand, or price
+
+
+
+### 🚘 Car Listing Page  
+<img width="1365" height="767" alt="car" src="https://github.com/user-attachments/assets/8ca7f015-7cab-4bfa-8821-e51ba808fe66" />
+
+### 🏍️ Bike/Scooter Listing Pag
+<img width="1362" height="767" alt="twowhelers" src="https://github.com/user-attachments/assets/13d7373a-83af-4253-932c-ab72cafc4d97" />
+
+### 🏍️ Booking Car,Bike/Scooter Listing Page  
+<img width="1364" height="766" alt="booking" src="https://github.com/user-attachments/assets/1723f5bc-3b52-4ee4-be56-406002a07e24" />
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, Bootstrap / Tailwind CSS  
@@ -67,6 +64,7 @@ npm run dev
 cd ../client
 npm install
 npm start
+
 
 
 
