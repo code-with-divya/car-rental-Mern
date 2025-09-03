@@ -5,7 +5,8 @@ Users can view available cars, book rentals, and manage reservations, while admi
 
 📸 Screenshots
 🔑 Login Page
-<img width="1364" height="767" alt="login" src="https://github.com/user-attachments/assets/a4d0c78a-5f5c-4260-96f2-8a7b16ae3655" />
+![Uploading login.png…]()
+
 
 
 It eliminates manual processes and brings automation to car rental businesses.
@@ -53,5 +54,6 @@ npm run dev
 cd ../client
 npm install
 npm start
+
 
 
