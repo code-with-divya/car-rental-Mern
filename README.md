@@ -7,14 +7,15 @@ Users can view available cars, book rentals, and manage reservations, while admi
 🔑 Login Page
 <img width="1365" height="766" alt="login" src="https://github.com/user-attachments/assets/2f64bba3-05f2-4051-8c19-e13e1487b36c" />
 
-🚘 Car Listing Page
+
+### 🚘 Car Listing Page  
 <img width="1365" height="767" alt="car" src="https://github.com/user-attachments/assets/8ca7f015-7cab-4bfa-8821-e51ba808fe66" />
 
-## Booking Car&Two-Wheleers list
+### 🏍️ Bike/Scooter Listing Page  
 <img width="1365" height="759" alt="booking (1)" src="https://github.com/user-attachments/assets/bf58237a-ee5e-41f3-9c54-9a49ea135f97" />
 
 
-🚘 Two-wheleers Listing Page
+### 🏍️ Booking Car,Bike/Scooter Listing Page  
 <img width="1362" height="767" alt="twowhelers" src="https://github.com/user-attachments/assets/13d7373a-83af-4253-932c-ab72cafc4d97" />
 
 
@@ -63,6 +64,7 @@ npm run dev
 cd ../client
 npm install
 npm start
+
 
 
 
