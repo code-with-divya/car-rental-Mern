@@ -5,7 +5,8 @@ Users can view available cars, book rentals, and manage reservations, while admi
 
 📸 Screenshots
 🔑 Login Page
-![Uploading login.png…]()
+<img width="1365" height="766" alt="login" src="https://github.com/user-attachments/assets/2f64bba3-05f2-4051-8c19-e13e1487b36c" />
+
 
 
 
@@ -54,6 +55,7 @@ npm run dev
 cd ../client
 npm install
 npm start
+
 
 
 
