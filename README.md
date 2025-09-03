@@ -15,11 +15,11 @@ Users can view available cars, book rentals, and manage reservations, while admi
 <img width="1362" height="767" alt="twowhelers" src="https://github.com/user-attachments/assets/13d7373a-83af-4253-932c-ab72cafc4d97" />
 
 ### 🏍️ Booking Car,Bike/Scooter Listing Page  
-<img width="1365" height="759" alt="booking (1)" src="https://github.com/user-attachments/assets/bf58237a-ee5e-41f3-9c54-9a49ea135f97" />
+<img width="1364" height="766" alt="booking" src="https://github.com/user-attachments/assets/1723f5bc-3b52-4ee4-be56-406002a07e24" />
 
 
-### 🏍️ Booking Car,Bike/Scooter Listing Page  
-<img width="1362" height="767" alt="twowhelers" src="https://github.com/user-attachments/assets/13d7373a-83af-4253-932c-ab72cafc4d97" />
+
+
 
 
 It eliminates manual processes and brings automation to car rental businesses.
@@ -67,6 +67,7 @@ npm run dev
 cd ../client
 npm install
 npm start
+
 
 
 
